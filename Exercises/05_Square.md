@@ -14,5 +14,3 @@ print(area)
 perimeter = (2 * shortSide) + (2 * longSide)
 print(perimeter)
 ```
-
-</details>
