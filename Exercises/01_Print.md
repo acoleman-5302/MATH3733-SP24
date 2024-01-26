@@ -36,3 +36,5 @@ Hello, I'm happy you decided to run this "Python" program!
 ``` python
 print('''Hello, I'm happy you decided to run this "Python" program!''')
 ```
+
+</details>

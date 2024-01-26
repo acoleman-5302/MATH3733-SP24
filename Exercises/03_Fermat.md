@@ -10,6 +10,8 @@ Show that $149$ is of the form $4k+1$ and find numbers $a$ and $b$ such that $a^
 
 ```python
 x = 149
-print(4*37+1)
-print(10**2 + 7**2)
+print( (4 * 37) + 1)
+print( (10 ** 2) + (7 ** 2) )
 ```
+
+</details>

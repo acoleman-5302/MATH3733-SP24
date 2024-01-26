@@ -1,4 +1,4 @@
-# Tips
+# Sideways Triangles
 
 Be sure to use pencil and paper when problem solving. This problems involves the ability to:
 
@@ -45,3 +45,20 @@ Write a program that uses only two output statements, `print("#", end="")` and `
 ##
 #
 ```
+
+
+<details>
+<summary style="font-weight:bold">Solution</summary>
+<br>
+
+``` python
+w = int(input())
+
+h = 2 * w - 1
+for i in range(1, h+1):
+    for j in range(w - abs(w-i)):
+        print("#", end="")
+    print()
+```
+
+</details>
